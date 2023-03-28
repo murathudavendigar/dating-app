@@ -6,3 +6,5 @@ namespace API.Entities
         public string UserName { get; set; }
     }
 }
+
+//! Biz isimlendirmeyi her ne kadar PascalCase yapsakta api'den dönen veriler CamelCase dönüyor.
