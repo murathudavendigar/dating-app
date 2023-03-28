@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\murat\\OneDrive\\Masaüstü\\Full Stack Developer\\Repositories\\murathudavendigar\\workshop\\dating-app\\API\\API.csproj": {}
+    "C:\\Users\\murat\\OneDrive\\Masaüstü\\Software\\Repositories\\murathudavendigar\\workshop\\dating-app\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\murat\\OneDrive\\Masaüstü\\Full Stack Developer\\Repositories\\murathudavendigar\\workshop\\dating-app\\API\\API.csproj": {
+    "C:\\Users\\murat\\OneDrive\\Masaüstü\\Software\\Repositories\\murathudavendigar\\workshop\\dating-app\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\murat\\OneDrive\\Masaüstü\\Full Stack Developer\\Repositories\\murathudavendigar\\workshop\\dating-app\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\murat\\OneDrive\\Masaüstü\\Software\\Repositories\\murathudavendigar\\workshop\\dating-app\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\murat\\OneDrive\\Masaüstü\\Full Stack Developer\\Repositories\\murathudavendigar\\workshop\\dating-app\\API\\API.csproj",
+        "projectPath": "C:\\Users\\murat\\OneDrive\\Masaüstü\\Software\\Repositories\\murathudavendigar\\workshop\\dating-app\\API\\API.csproj",
         "packagesPath": "C:\\Users\\murat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\murat\\OneDrive\\Masaüstü\\Full Stack Developer\\Repositories\\murathudavendigar\\workshop\\dating-app\\API\\obj\\",
+        "outputPath": "C:\\Users\\murat\\OneDrive\\Masaüstü\\Software\\Repositories\\murathudavendigar\\workshop\\dating-app\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\murat\\AppData\\Roaming\\NuGet\\NuGet.Config"
